@@ -15,7 +15,7 @@ expose:
   - --v
   - 4
   config:
-    domain: lead-dev.liatr.io
+    domain: casey.nonprod.liatr.io
     exposer: Ingress
     http: "true"
 jenkins:

@@ -12,7 +12,7 @@ dependencies:
   version: 0.4.0-22
 - name: sample-app-api
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.3.0-6
+  version: 0.3.0-7
 - name: test-actuator
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.2
